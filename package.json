@@ -1,0 +1,22 @@
+{
+  "name": "speedv2",
+  "version": "1.0.0",
+  "description": "Discord bot that can do math and can help with scheduling",
+  "main": "speed.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwang840/SpeedV2.git"
+  },
+  "author": "Maxwell Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwang840/SpeedV2/issues"
+  },
+  "homepage": "https://github.com/mwang840/SpeedV2#readme",
+  "dependencies": {
+    "discord.js": "13.7"
+  }
+}
